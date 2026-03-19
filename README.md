@@ -12,10 +12,7 @@ Turning data into actionable business insights
 ## 🚀 About Me
 - 📊 Passionate about **financial analytics and data-driven decision making**
 - 📈 Interested in **time series forecasting and business intelligence**
-- 🛠️ Skilled in **SQL, Python, Tableau, and Excel**
 - 🎯 Aspiring **Data Analyst / Business Analyst / Junior Data Scientist**
-
----
 
 ## 🤝 Connect with Me
 <p align="left">
