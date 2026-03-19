@@ -1,5 +1,4 @@
 # Timothy-Maina-data-analytics-portfolio
-# 📊 Finance Analytics Portfolio
 
 <h1 align="center">Hi 👋, I'm Timothy Maina</h1>
 
