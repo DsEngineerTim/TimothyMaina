@@ -1,6 +1,4 @@
-# Timothy-Maina-data-analytics-portfolio
-
-<h1 align="center">Hi 👋, I'm Timothy Maina</h1>
+<h1 align="center">Hi 👋 world, I'm Timothy Maina</h1>
 
 <h3 align="center">
 Data Analyst | Finance & Forecasting Enthusiast  
