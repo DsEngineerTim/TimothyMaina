@@ -25,7 +25,7 @@ Turning data into actionable business insights
 
 ---
 
-## 🧰 My Tool kit...
+## 🧰 My Tool-Kit
 
 <p align="left">
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"></code>
