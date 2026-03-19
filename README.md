@@ -42,9 +42,9 @@ Turning data into actionable business insights
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/abhisheknaiidu/awesome-github-profile-readme/master/assets/images/seaborn.png" alt="Seaborn"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/abhisheknaiidu/awesome-github-profile-readme/master/assets/images/scikit-learn.png" alt="Scikit-Learn"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/abhisheknaiidu/awesome-github-profile-readme/master/assets/images/tableau.png" alt="Tableau"></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/seaborn/seaborn-original.svg" alt="seaborn" width="40" height="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="scikit-learn" width="40" height="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" alt="tableau" width="40" height="40"/></code>
   <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="Excel"></code>
 </p>
 ---
