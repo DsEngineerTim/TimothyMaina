@@ -14,7 +14,6 @@ Turning data into actionable business insights
 - 📈 Interested in **time series forecasting and business intelligence**
 - 🎯 Aspiring **Data Analyst / Business Analyst / Junior Data Scientist**
 
-## 🤝 Connect with Me
 ### 🤝 Connect with Me
 
 <p align="left">
@@ -23,9 +22,9 @@ Turning data into actionable business insights
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40"/>
   </a>
 
-  <!-- Gmail -->
+  <!-- Email -->
   <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" height="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="40"/>
   </a>
 
   <!-- WhatsApp -->
