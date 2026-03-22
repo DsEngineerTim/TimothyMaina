@@ -21,7 +21,7 @@ Turning data into actionable business insights
   </a>
 
   <!-- Email -->
-  <a href="mailto:mainatimothy384@gmail.com" target="_blank">
+  <a href="mailto:timothymaina382@gmail.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="40"/>
   </a>
 
