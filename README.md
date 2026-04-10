@@ -31,7 +31,7 @@ An end-to-end analytics project exploring sales performance, profitability, and 
 - Identified key revenue and profitability drivers  
 
 🔗 <a href="https://github.com/timmaina-devhub/superstore-executive-dashboard" target="_blank">View Project</a>  
-📊 <a href="#" target="_blank">Case Study</a>
+📊 <a href="https://timmaina-devhub.github.io/projects#sales-dashboard" target="_blank">Case Study</a>
 
 ---
 
@@ -43,8 +43,8 @@ A machine learning project focused on predicting churn and understanding custome
 - Applied RFM-based customer segmentation  
 - Identified key churn indicators  
 
-🔗 <a href="#" target="_blank">View Project</a>  
-📊 <a href="#" target="_blank">Case Study</a>
+🔗 <a href="https://github.com/timmaina-devhub/Customer-Churn-Analysis-and-Segmentation" target="_blank">View Project</a>  
+📊 <a href="https://timmaina-devhub.github.io/projects#customer-analysis" target="_blank">Case Study</a>
 
 ---
 
@@ -56,8 +56,8 @@ A predictive analytics project designed to detect fraudulent transactions.
 - Evaluated and improved model performance  
 - Identified anomalous transaction patterns  
 
-🔗 <a href="#" target="_blank">View Project</a>  
-📊 <a href="#" target="_blank">Case Study</a>
+🔗 <a href="https://github.com/timmaina-devhub/Fraud-Detection-System" target="_blank">View Project</a>  
+📊 <a href="https://timmaina-devhub.github.io/projects#fraud-detection" target="_blank">Case Study</a>
 
 ---
 
