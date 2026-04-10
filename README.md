@@ -84,8 +84,8 @@ I am currently strengthening my expertise in:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=timmaina-devhub&show_icons=false&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timmaina-devhub&layout=compact&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=timmaina-devhub&hide_border=true&cache_seconds=86400" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timmaina-devhub&layout=compact&hide_border=true&cache_seconds=86400" height="150"/>
 </p>
 
 ---
