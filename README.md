@@ -92,7 +92,7 @@ I am currently strengthening my expertise in:
 
 ## 🌐 Connect
 
-- 🔗 <a href="https://www.linkedin.com/in/timothy-maina-43645b1b0/" target="_blank">LinkedIn</a>  
+- 🔗 <a href="https://www.linkedin.com/in/timmaina-devhub" target="_blank">LinkedIn</a>  
 - 📧 <a href="mailto:timothymaina382@gmail.com">Email Me</a>  
 - 🌍 <a href="https://timmaina-devhub.github.io/" target="_blank">Portfolio Website</a>  
 - 💬 <a href="https://wa.me/254789353163" target="_blank">WhatsApp</a>  
