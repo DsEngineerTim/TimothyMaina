@@ -61,16 +61,42 @@ A predictive analytics project designed to detect fraudulent transactions.
 
 ---
 
-### Multi-Channel Marketing Attribution & ROI Optimization
+### Multi-Channel Marketing Attribution & ROI Optimization  
 A data-driven analytics project designed to evaluate marketing performance and optimize budget allocation.
 
 - Built a Markov Chain model to quantify channel contribution  
-- Developed a Random Forest model to predict revenue outcomes
+- Developed a Random Forest model to predict revenue outcomes  
 - Engineered campaign and efficiency metrics for improved insights  
 - Analyzed customer journeys to uncover conversion patterns  
 
 🔗 <a href="https://github.com/timmaina-devhub/Multi-Channel-Marketing-Attribution-ROI-Optimization" target="_blank">View Project</a>  
 📊 <a href="https://timmaina-devhub.github.io/projects#Multi-Channel-Marketing-Attribution-ROI-Optimization" target="_blank">Case Study</a>
+
+---
+
+### Customer Credit Risk Assessment Model  
+A machine learning project focused on predicting credit risk and supporting financial decision-making.
+
+- Performed data preprocessing and risk feature engineering  
+- Built classification models to predict default probability  
+- Evaluated models using recall-focused performance metrics  
+- Developed a dashboard to visualize risk segmentation and trends  
+
+🔗 <a href="https://github.com/timmaina-devhub/Customer-Credit-Risk-Assessment-Model" target="_blank">View Project</a>  
+📊 <a href="https://timmaina-devhub.github.io/projects#credit-risk" target="_blank">Case Study</a>
+
+---
+
+### Supply Chain Analytics & Inventory Optimization  
+A data analytics project focused on improving inventory efficiency and demand planning.
+
+- Analyzed inventory and demand patterns across products  
+- Built forecasting models to predict future demand  
+- Identified stock inefficiencies and optimization opportunities  
+- Designed dashboards to support supply chain decision-making  
+
+🔗 <a href="https://github.com/timmaina-devhub/Inventory-Optimisation" target="_blank">View Project</a>  
+📊 <a href="https://timmaina-devhub.github.io/projects#inventory-optimization" target="_blank">Case Study</a>
 
 ---
 
@@ -111,6 +137,7 @@ I am currently strengthening my expertise in:
 - 💬 <a href="https://wa.me/254789353163" target="_blank">WhatsApp</a>  
 
 ---
+
 ## 📌 Focus
 
 I build end-to-end data projects that demonstrate how analytics and machine learning can be applied to solve real-world business problems and support data-driven decision-making.
